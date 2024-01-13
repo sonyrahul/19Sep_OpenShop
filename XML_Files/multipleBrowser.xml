@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="tests">
+ 
+  <test thread-count="5" name="ChromeTest">
+    <parameter name="browser" value="chrome" />    <!-- passing browser parameter to BaseClass ->Setup() -->
+    <classes>
+      <class name="testCases.TC_001_AccountRegistrationTest"/>
+      <class name="test.java.testCases.TC_001_AccountRegistrationTest"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test thread-count="5" name="EdgeTest">
+    <parameter name="browser" value="edge" />    <!-- passing browser parameter to BaseClass ->Setup() -->
+    <classes>
+      <class name="testCases.TC_001_AccountRegistrationTest"/>
+      <class name="test.java.testCases.TC_001_AccountRegistrationTest"/>
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->
