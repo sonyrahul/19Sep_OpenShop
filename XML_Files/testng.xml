@@ -11,20 +11,19 @@
       
       <class name="testCases.TC_001_AccountRegistrationTest"/>
       <class name="test.java.testCases.TC_001_AccountRegistrationTest"/>
-      
-       <class name="testCases.TC_002_LoginTest"/>
-      <class name="test.java.testCases.TC_002_LoginTest"/>
+       <!--class name="testCases.TC_002_LoginTest"/>
+      <class name="test.java.testCases.TC_002_LoginTest"/-->
       
     </classes>
   </test> <!-- Test -->
   
-   <test thread-count="5" name="MultipleLoginTest">
-    <parameter name="browser" value="edge" />    <!-- passing browser parameter to BaseClass ->Setup() -->
+  <!-- <test thread-count="5" name="MultipleLoginTest">
+    <parameter name="browser" value="edge" />     passing browser parameter to BaseClass ->Setup() 
     <classes>
        <class name="testCases.TC_003_LoginDataDrivenTest"/>
       <class name="test.java.testCases.TC_003_LoginDataDrivenTest"/>
       
-    </classes>
-  </test> <!-- Test -->
+       </classes>
+  </test>  Test -->
   
 </suite> <!-- Suite -->

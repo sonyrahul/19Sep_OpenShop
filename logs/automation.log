@@ -1,68 +1,173 @@
-08:58:23.813 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
-08:58:23.997 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
-08:58:24.930 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
-08:58:25.803 [TestNG-tests-2] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
-08:58:28.783 [TestNG-tests-2] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
-08:58:28.805 [TestNG-tests-2] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
-08:58:29.696 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
-08:58:29.750 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
-08:58:29.750 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
-08:58:32.133 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
-08:58:34.013 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
-08:58:40.306 [TestNG-tests-2] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
-08:58:40.312 [TestNG-tests-2] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
-08:58:51.881 [TestNG-tests-2] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
-08:58:51.885 [TestNG-tests-2] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
-08:59:03.166 [TestNG-tests-2] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
-08:59:03.166 [TestNG-tests-2] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
-08:59:05.467 [TestNG-tests-2] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
-14:52:39.453 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
-14:52:39.862 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
-14:52:40.582 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
-14:52:44.387 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
-14:52:44.447 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
-14:52:44.450 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
-14:52:46.740 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
-14:52:48.733 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
-14:54:14.036 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
-14:54:14.663 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
-14:54:15.420 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
-14:54:16.161 [TestNG-tests-2] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
-14:54:18.962 [TestNG-tests-2] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
-14:54:18.984 [TestNG-tests-2] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
-14:54:19.779 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
-14:54:19.854 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
-14:54:19.856 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
-14:54:22.638 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
-14:54:24.548 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
-14:54:30.623 [TestNG-tests-2] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
-14:54:30.623 [TestNG-tests-2] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
-14:54:42.114 [TestNG-tests-2] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
-14:54:42.116 [TestNG-tests-2] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
-14:54:53.810 [TestNG-tests-2] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
-14:54:53.810 [TestNG-tests-2] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
-14:54:56.316 [TestNG-tests-2] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
-15:08:19.813 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
-15:08:20.046 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
-15:08:21.207 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
-15:08:25.816 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
-15:08:25.878 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
-15:08:25.882 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
-15:08:28.529 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
-15:08:30.368 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
-15:08:32.869 [main] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
-15:08:37.031 [main] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
-15:08:39.529 [main] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
-15:08:43.619 [main] INFO  testCases.TC_005_AddToCartPageTest -  Finished TC_004_SearchProductTest 
-15:17:53.785 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
-15:17:54.114 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
-15:17:54.744 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
-15:17:58.564 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
-15:17:58.619 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
-15:17:58.623 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
-15:18:01.567 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
-15:18:03.377 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
-15:18:07.156 [main] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
-15:18:08.886 [main] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
-15:18:14.780 [main] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
-15:18:18.644 [main] INFO  testCases.TC_005_AddToCartPageTest -  Finished TC_004_SearchProductTest 
+09:41:13.301 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+09:41:13.666 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+09:41:14.552 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+09:41:18.456 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+09:41:18.510 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+09:41:18.515 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+22:19:03.523 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+22:19:04.175 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+22:19:05.320 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+22:19:05.924 [TestNG-tests-2] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+22:19:09.805 [TestNG-tests-2] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+22:19:09.831 [TestNG-tests-2] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+22:19:10.826 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+22:19:10.899 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+22:19:10.899 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+22:19:13.913 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+22:19:15.626 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
+22:19:21.739 [TestNG-tests-2] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+22:19:21.743 [TestNG-tests-2] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+22:19:33.607 [TestNG-tests-2] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+22:19:33.610 [TestNG-tests-2] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+22:19:45.399 [TestNG-tests-2] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+22:19:45.402 [TestNG-tests-2] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+22:19:48.209 [TestNG-tests-2] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+07:41:19.302 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+07:41:20.121 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+07:41:21.916 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+07:41:22.274 [TestNG-tests-2] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+07:41:26.042 [TestNG-tests-2] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+07:41:26.075 [TestNG-tests-2] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+07:41:27.683 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+07:41:27.756 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+07:41:27.756 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+07:41:31.040 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+07:41:33.488 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
+07:41:38.089 [TestNG-tests-2] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+07:41:38.093 [TestNG-tests-2] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+07:41:51.376 [TestNG-tests-2] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+07:41:51.376 [TestNG-tests-2] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+07:42:03.288 [TestNG-tests-2] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+07:42:03.304 [TestNG-tests-2] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+07:42:05.203 [TestNG-tests-2] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+08:07:30.275 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+08:07:30.521 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+08:07:31.005 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+08:07:34.402 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+08:07:34.443 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+08:07:34.446 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+08:07:36.459 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+08:07:37.690 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
+08:52:35.159 [TestNG-tests-2] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+08:52:36.256 [TestNG-tests-2] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+08:52:40.214 [TestNG-tests-2] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+08:52:42.347 [TestNG-tests-2] INFO  testCases.TC_005_AddToCartPageTest -  Finished TC_004_SearchProductTest 
+08:59:10.633 [TestNG-tests-2] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+08:59:12.386 [TestNG-tests-2] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+08:59:14.397 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+08:59:14.645 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+08:59:15.859 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+08:59:17.028 [TestNG-tests-2] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+08:59:19.590 [TestNG-tests-2] INFO  testCases.TC_005_AddToCartPageTest -  Finished TC_004_SearchProductTest 
+08:59:19.907 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+08:59:19.938 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+08:59:19.938 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+09:03:02.001 [TestNG-tests-2] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+09:03:03.003 [TestNG-tests-3] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+09:03:03.730 [TestNG-tests-2] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+09:03:04.604 [TestNG-tests-3] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
+09:03:08.175 [TestNG-tests-2] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+09:03:12.999 [TestNG-tests-2] INFO  testCases.TC_005_AddToCartPageTest -  Finished TC_004_SearchProductTest 
+09:03:13.556 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+09:03:13.874 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+09:03:15.024 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+09:03:18.712 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+09:03:18.743 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+09:03:18.743 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+09:07:10.119 [TestNG-tests-2] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+09:07:11.969 [TestNG-tests-3] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+09:07:12.175 [TestNG-tests-2] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+09:07:13.300 [TestNG-tests-3] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+09:07:16.326 [TestNG-tests-2] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+09:07:18.472 [TestNG-tests-2] INFO  testCases.TC_005_AddToCartPageTest -  Finished TC_004_SearchProductTest 
+18:59:43.508 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+18:59:43.690 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+18:59:44.070 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+18:59:44.175 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+18:59:44.828 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+18:59:44.844 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+18:59:47.547 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+18:59:50.346 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+18:59:50.404 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+18:59:50.410 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+18:59:57.589 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+19:00:51.332 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+19:00:51.460 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+19:00:52.171 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+19:00:54.693 [TestNG-tests-2] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+19:00:57.188 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+19:00:57.238 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+19:00:57.238 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+19:00:59.970 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+19:01:38.214 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+19:01:38.877 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+19:01:39.552 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+19:01:40.737 [TestNG-tests-2] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+19:01:44.535 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+19:01:44.593 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+19:01:44.599 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+19:01:48.059 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+19:02:54.263 [TestNG-tests-2] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+19:02:57.104 [TestNG-tests-2] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+19:02:58.060 [TestNG-tests-3] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+19:03:00.467 [TestNG-tests-2] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+19:03:04.845 [TestNG-tests-2] INFO  testCases.TC_005_AddToCartPageTest -  Finished TC_004_SearchProductTest 
+20:35:21.929 [TestNG-tests-2] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+20:35:24.376 [TestNG-tests-2] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+20:35:26.034 [TestNG-tests-3] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+20:35:27.639 [TestNG-tests-2] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+20:35:29.920 [TestNG-tests-2] INFO  testCases.TC_005_AddToCartPageTest -  Finished TC_004_SearchProductTest 
+06:57:14.266 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+06:57:14.415 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+06:57:15.294 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+06:57:19.531 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+06:57:19.585 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+06:57:19.589 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+06:58:47.666 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+06:58:47.825 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+06:58:48.355 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+06:58:52.498 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+06:58:52.553 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+06:58:52.553 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+07:13:22.120 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+07:13:22.706 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+07:13:23.964 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+07:13:28.649 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+07:13:28.711 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+07:13:28.714 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+15:20:11.844 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+15:20:12.574 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+15:20:13.374 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+15:20:17.252 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+15:20:17.296 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+15:20:17.299 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+15:21:07.706 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+15:21:07.826 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+15:21:08.233 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+15:21:11.543 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+15:21:11.577 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+15:21:11.580 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+17:23:33.881 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+17:23:33.998 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+17:23:34.406 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+17:23:37.875 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+17:23:37.923 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+17:23:37.925 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+17:24:23.597 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+17:24:23.796 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+17:24:24.307 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+17:24:28.097 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+17:24:28.150 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+17:24:28.154 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+17:26:18.986 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+17:26:19.253 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+17:26:19.716 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+17:26:23.452 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+17:26:23.499 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+17:26:23.505 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+17:27:26.945 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+17:27:27.335 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+17:27:27.901 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+17:27:31.924 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+17:27:31.975 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+17:27:31.979 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***

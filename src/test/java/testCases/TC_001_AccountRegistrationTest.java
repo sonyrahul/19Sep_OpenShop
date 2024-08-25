@@ -19,6 +19,7 @@ public class TC_001_AccountRegistrationTest extends BaseClass{
 		{
 		HomePage hp=new HomePage(driver);
 		hp.clickMyAccount();
+		
 		logger.info("Clicked on My account link");
 		
 		hp.clickRegister();
@@ -28,23 +29,25 @@ public class TC_001_AccountRegistrationTest extends BaseClass{
 		String firstName = faker.name().firstName();
 		String lastName = faker.name().lastName();
 		String email = faker.internet().safeEmailAddress();
+		String email_1 = firstName+lastName+"123@example.com";
 		String phoneno = faker.phoneNumber().cellPhone();
 		
 		AccountRegistrationPage regpage=new AccountRegistrationPage(driver);
 		
 		regpage.setFirstName(firstName.toUpperCase());
-		
+
 		regpage.setLastName(lastName.toUpperCase());
-		
-		regpage.setEmail(email);// randomly generated the email
+
+		//regpage.setEmail(email);// randomly generated the email
+		regpage.setEmail(email_1);
 		
 		regpage.setTelephone(phoneno);
-		
-		String password=randomAlphaNumeric();
+
+		String password = randomAlphaNumeric();
 		regpage.setPassword(password);
 		regpage.setConfirmPassword(password);
 		
-		System.out.println(email);
+		System.out.println(email_1);
 		System.out.println(password);
 		regpage.setPrivacyPolicy();
 		
@@ -60,8 +63,6 @@ public class TC_001_AccountRegistrationTest extends BaseClass{
 		{
 			Assert.fail();
 		}
-		
 		logger.info("***  Finished TC_001_AccountRegistrationTest ***");		
 	}
-	
 }

@@ -15,6 +15,7 @@ import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Parameters;
@@ -27,8 +28,8 @@ public class BaseClass {
 	
 	public WebDriver driver;
 	
-
-	@BeforeClass(groups = { "Master", "Sanity", "Regression" }) //Step8 groups added
+	//Pull
+	@BeforeClass(groups = { "Master", "Sanity", "Regression","Chrome", "Edge" }) //Step8 groups added
 	@Parameters("browser") 	//getting browser parameter from testng.xml
 	public void setup(String br)
 	{
@@ -37,21 +38,23 @@ public class BaseClass {
 		logger = LogManager.getLogger(this.getClass());// for Logger  
 		
 		//launch right browser based on parameter
-				if (br.equals("chrome")) {
-					driver = new ChromeDriver();
-				} else if (br.equals("edge")) {
-					driver = new EdgeDriver();
-				} else {
-					driver = new ChromeDriver();
-				}
-			
+		if (br.equals("chrome")) {
+			driver = new ChromeDriver();} 
+		else if (br.equals("edge")) {
+			driver = new EdgeDriver();} 
+		else if (br.equals("firefox")) {
+			driver = new FirefoxDriver();}
+		else {
+			driver = new ChromeDriver();
+		}
+
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 
 		driver.get(rb.getString("appURL")); // get url from config.properties file
 		driver.manage().window().maximize();
 	}
 
-	@AfterClass(groups = { "Master", "Sanity", "Regression" })
+	@AfterClass(groups = { "Master", "Sanity", "Regression","Chrome", "Edge" }) 
 	public void teadDown() {
 		driver.quit();
 	}
@@ -80,7 +83,9 @@ public class BaseClass {
 		TakesScreenshot takesScreenshot = (TakesScreenshot) driver;
 		File source = takesScreenshot.getScreenshotAs(OutputType.FILE);
 		String destination = System.getProperty("user.dir") + "\\screenshots\\" + tname + "_" + timeStamp + ".png";
-
+		
+		
+		
 		try {
 			FileUtils.copyFile(source, new File(destination));
 		} catch (Exception e) {
@@ -89,5 +94,4 @@ public class BaseClass {
 		return destination;
 
 	}
-
 }
