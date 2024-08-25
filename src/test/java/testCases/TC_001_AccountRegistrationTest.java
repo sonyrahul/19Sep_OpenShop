@@ -1,5 +1,7 @@
 package testCases;
 
+import javax.swing.plaf.synth.SynthOptionPaneUI;
+
 import org.testng.Assert;
 import org.testng.annotations.Test;
 import com.github.javafaker.Faker;
@@ -12,6 +14,7 @@ public class TC_001_AccountRegistrationTest extends BaseClass{
 	@Test(groups= {"Regression","Master"}) //Step8 groups added)
 	public void test_account_Registration() throws InterruptedException
 	{
+		System.out.println("Rahul Sony");
 		logger.debug("application logs......");
 		logger.info("***  Starting TC_001_AccountRegistrationTest ***");
 		

@@ -33,6 +33,7 @@ public class BaseClass {
 	@Parameters("browser") 	//getting browser parameter from testng.xml
 	public void setup(String br)
 	{
+		System.out.println("Parameter");
 		rb = ResourceBundle.getBundle("config");// Load config.properties
 				
 		logger = LogManager.getLogger(this.getClass());// for Logger  
