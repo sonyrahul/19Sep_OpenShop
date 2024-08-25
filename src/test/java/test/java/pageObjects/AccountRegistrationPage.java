@@ -14,6 +14,7 @@ public class AccountRegistrationPage extends BasePage {
 		@FindBy(name = "firstname")
 		WebElement txtFirstname;
 
+		
 		@FindBy(name = "lastname")
 		WebElement txtLasttname;
 

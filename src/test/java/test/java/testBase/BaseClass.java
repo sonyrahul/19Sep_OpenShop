@@ -48,7 +48,7 @@ public class BaseClass {
 		else {
 			driver = new ChromeDriver();
 		}
-
+		
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 
 		driver.get(rb.getString("appURL")); // get url from config.properties file
