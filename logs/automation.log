@@ -171,3 +171,92 @@
 17:27:31.924 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
 17:27:31.975 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
 17:27:31.979 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+00:42:44.231 [TestNG-tests-3] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+00:42:49.199 [TestNG-tests-2] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+00:42:52.133 [TestNG-tests-2] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+00:42:57.532 [TestNG-tests-2] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+00:43:06.971 [TestNG-tests-2] INFO  testCases.TC_005_AddToCartPageTest -  Finished TC_004_SearchProductTest 
+00:45:45.479 [TestNG-tests-2] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+00:45:48.683 [TestNG-tests-2] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+00:46:39.982 [TestNG-tests-2] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+00:46:42.797 [TestNG-tests-2] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+00:46:44.138 [TestNG-tests-3] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+00:46:48.920 [TestNG-tests-2] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+00:46:52.675 [TestNG-tests-2] INFO  testCases.TC_005_AddToCartPageTest -  Finished TC_004_SearchProductTest 
+00:49:22.909 [TestNG-tests-2] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+00:49:25.317 [TestNG-tests-2] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+00:49:25.839 [TestNG-tests-3] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+00:49:31.046 [TestNG-tests-2] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+00:49:33.930 [TestNG-tests-2] INFO  testCases.TC_005_AddToCartPageTest -  Finished TC_004_SearchProductTest 
+00:51:02.541 [TestNG-tests-2] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+00:51:05.373 [TestNG-tests-2] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+00:51:05.576 [TestNG-tests-3] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+00:51:11.107 [TestNG-tests-2] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+00:51:15.414 [TestNG-tests-2] INFO  testCases.TC_005_AddToCartPageTest -  Finished TC_004_SearchProductTest 
+00:52:12.576 [TestNG-tests-2] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+00:52:15.823 [TestNG-tests-2] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+00:52:16.582 [TestNG-tests-3] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+00:52:23.269 [TestNG-tests-2] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+00:52:29.500 [TestNG-tests-2] INFO  testCases.TC_005_AddToCartPageTest -  Finished TC_004_SearchProductTest 
+19:22:02.131 [TestNG-tests-3] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+19:22:37.075 [TestNG-tests-2] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+19:22:40.034 [TestNG-tests-2] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+19:22:49.350 [TestNG-tests-2] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+19:22:55.094 [TestNG-tests-2] INFO  testCases.TC_005_AddToCartPageTest -  Finished TC_004_SearchProductTest 
+17:06:56.992 [TestNG-tests-2] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+17:06:59.316 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+17:06:59.685 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+17:07:01.153 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+17:07:01.613 [TestNG-tests-2] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+17:07:07.454 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+17:07:07.540 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+17:07:07.541 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+17:07:09.318 [TestNG-tests-2] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+17:07:14.011 [TestNG-tests-2] INFO  testCases.TC_005_AddToCartPageTest -  Finished TC_004_SearchProductTest 
+17:57:27.130 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+17:57:27.505 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+17:57:28.532 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+17:57:33.199 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+17:57:33.262 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+17:58:11.864 [TestNG-tests-2] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+17:58:15.114 [TestNG-tests-2] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+17:58:18.246 [TestNG-tests-3] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+17:58:19.185 [TestNG-tests-2] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+17:58:23.022 [TestNG-tests-2] INFO  testCases.TC_005_AddToCartPageTest -  Finished TC_004_SearchProductTest 
+18:03:30.675 [TestNG-tests-2] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+18:03:33.905 [TestNG-tests-2] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+18:03:36.399 [TestNG-tests-3] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+18:03:39.120 [TestNG-tests-2] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+18:03:42.165 [TestNG-tests-2] INFO  testCases.TC_005_AddToCartPageTest -  Finished TC_004_SearchProductTest 
+18:05:06.257 [TestNG-tests-2] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+18:05:09.353 [TestNG-tests-2] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+18:07:41.932 [TestNG-tests-2] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+18:07:44.955 [TestNG-tests-2] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+18:07:47.423 [TestNG-tests-3] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+18:07:51.387 [TestNG-tests-2] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+18:07:54.419 [TestNG-tests-2] INFO  testCases.TC_005_AddToCartPageTest -  Finished TC_004_SearchProductTest 
+18:12:14.517 [TestNG-tests-2] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+18:12:18.087 [TestNG-tests-2] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+18:12:20.975 [TestNG-tests-3] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+18:12:21.975 [TestNG-tests-2] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+18:12:25.269 [TestNG-tests-2] INFO  testCases.TC_005_AddToCartPageTest -  Finished TC_004_SearchProductTest 
+18:14:20.188 [TestNG-tests-2] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+18:14:22.235 [TestNG-tests-2] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+18:14:25.173 [TestNG-tests-3] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+18:14:26.156 [TestNG-tests-2] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+18:14:29.342 [TestNG-tests-2] INFO  testCases.TC_005_AddToCartPageTest -  Finished TC_004_SearchProductTest 
+18:15:20.803 [TestNG-tests-2] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+18:15:24.757 [TestNG-tests-3] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+18:15:24.826 [TestNG-tests-2] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+18:15:29.358 [TestNG-tests-2] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+18:15:32.303 [TestNG-tests-2] INFO  testCases.TC_005_AddToCartPageTest -  Finished TC_004_SearchProductTest 
+18:22:16.212 [TestNG-tests-2] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+18:22:18.333 [TestNG-tests-2] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+18:22:20.592 [TestNG-tests-3] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+18:22:22.114 [TestNG-tests-2] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+18:22:25.022 [TestNG-tests-2] INFO  testCases.TC_005_AddToCartPageTest -  Finished TC_004_SearchProductTest 
+18:23:38.732 [TestNG-tests-2] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+18:23:41.244 [TestNG-tests-3] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+18:23:41.309 [TestNG-tests-2] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+18:23:44.462 [TestNG-tests-2] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+18:23:47.288 [TestNG-tests-2] INFO  testCases.TC_005_AddToCartPageTest -  Finished TC_004_SearchProductTest 

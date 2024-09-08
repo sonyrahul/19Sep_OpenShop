@@ -14,8 +14,11 @@ import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.edge.EdgeDriver;
+import org.openqa.selenium.edge.EdgeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.firefox.FirefoxOptions;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Parameters;
@@ -40,11 +43,30 @@ public class BaseClass {
 		
 		//launch right browser based on parameter
 		if (br.equals("chrome")) {
-			driver = new ChromeDriver();} 
+			if(rb.getString("headLessChrome").contains("Y")){
+				ChromeOptions options = new ChromeOptions();
+				options.addArguments("--headless=new");	
+				driver = new ChromeDriver(options);
+			}
+			else {
+				driver = new ChromeDriver();}
+			} 
 		else if (br.equals("edge")) {
-			driver = new EdgeDriver();} 
+			if(rb.getString("headLessEdge").contains("Y")){
+				EdgeOptions options = new EdgeOptions();
+				options.addArguments("--headless");
+				driver = new EdgeDriver(options);
+			}
+			else {driver = new EdgeDriver();} 
+		}
 		else if (br.equals("firefox")) {
-			driver = new FirefoxDriver();}
+			if(rb.getString("headLessFirefox").contains("Y")){
+				FirefoxOptions options = new FirefoxOptions();
+				options.addArguments("--headless");
+				driver = new FirefoxDriver(options);
+			}
+			else {driver = new FirefoxDriver();}
+		}
 		else {
 			driver = new ChromeDriver();
 		}

@@ -31,7 +31,6 @@
 		<classes>
 			<class name="testCases.TC_002_LoginTest" />
 			<class name="testCases.TC_001_AccountRegistrationTest" />
-			<class name="test.java.testCases.TC_001_AccountRegistrationTest" />
 		</classes>
 
 	</test> <!-- Test -->
