@@ -16,12 +16,12 @@
     </classes>
   </test> <!-- Test -->
   
-  <!-- <test thread-count="5" name="MultipleLoginTest">
-    <parameter name="browser" value="edge" />     passing browser parameter to BaseClass ->Setup() 
+  <test thread-count="5" name="MultipleLoginTest">
+    <parameter name="browser" value="edge" />   <!--  passing browser parameter to BaseClass ->Setup() -->
     <classes>
        <class name="testCases.TC_003_LoginDataDrivenTest"/>
       
        </classes>
-  </test>  Test -->
+  </test>  
   
 </suite> <!-- Suite -->

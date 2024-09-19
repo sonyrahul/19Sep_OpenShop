@@ -1,8 +1,14 @@
 package test.java.pageObjects;
 
+import java.io.File;
+import java.io.IOException;
+
+import org.apache.commons.io.FileUtils;
+import org.openqa.selenium.OutputType;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.How;
 
 public class AccountRegistrationPage extends BasePage {
 
@@ -13,7 +19,6 @@ public class AccountRegistrationPage extends BasePage {
 		//Elements
 		@FindBy(name = "firstname")
 		WebElement txtFirstname;
-
 		
 		@FindBy(name = "lastname")
 		WebElement txtLasttname;
@@ -33,15 +38,14 @@ public class AccountRegistrationPage extends BasePage {
 		@FindBy(name = "agree")
 		WebElement chkdPolicy;
 
-		@FindBy(xpath = "//input[@value='Continue']")
+		@FindBy(css = "input[value='Continue']")
 		WebElement btnContinue;
 
 		@FindBy(xpath = "//h1[normalize-space()='Your Account Has Been Created!']")
 		WebElement msgConfirmation;
 
-		public void setFirstName(String fname) {
+		public void setFirstName(String fname){
 			txtFirstname.sendKeys(fname);
-
 		}
 
 		public void setLastName(String lname) {
